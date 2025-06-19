@@ -56,13 +56,6 @@ This system enables seamless human-computer interaction using hand gestures as i
 * Modular code design for easy extension
 
 ---
-
-## 📲 Demo
-
-> *(Upload a short demo .gif or video and include the preview link here)*
-
----
-
 ## 📊 Repository Structure
 
 ```
